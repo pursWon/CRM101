@@ -20,3 +20,5 @@ I/O (Input / Output : 입출력)
 JAVA I/O 클래스 
 - java.io 패키지에서 I/O를 위한 4개의 추상 클래스
 - 바이트 스트림 : InputStream, OutputStream
+- 문자 스트림 : Reader, Writer
+- 해당 클래스에서 상속받아 파일에 데이터를 읽고 씀
