@@ -39,4 +39,4 @@ Flow의 종류에는 총 6가지가 있습니다.
 
 Resource : Variable, Constant, Formula 등 Flow 전체가 참조할 수 있는 것    
 
-Flow를 다 만든 후에는 debug & Test가 이뤄줘야합니다.     
+Flow를 다 만든 후에는 debug & Test가 실행되어야 합니다.  
