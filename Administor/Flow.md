@@ -10,6 +10,8 @@ Flow를 만들고 사용함에 따라 자동화가 이루어지는 것이 Flow�
 Flow를 만들어 놓는다면 바로 해당 문제를 받고 문제 해결에 돌입할 수 있습니다.       
 
 Flow의 종류에는 총 6가지가 있습니다.          
+
+
    
 가장 많이 사용하는 유형의 Flow는 Screen Flow와 Record Trigger Flow가 있습니다.    
 
